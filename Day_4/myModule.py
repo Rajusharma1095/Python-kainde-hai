@@ -1,0 +1,1 @@
+myFavourateNumber=3.145
